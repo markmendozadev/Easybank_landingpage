@@ -7,7 +7,7 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>Landbank</title>
+        <title>Easybank</title>
         <meta name="description" content="Bank landing page" />
         <link rel="icon" href="/images/favicon-32x32.png" />
       </Head>
